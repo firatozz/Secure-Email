@@ -1,0 +1,17 @@
+c:\users\foza\documents\visual studio 2013\Projects\Güvenli E-Mail Uygulaması\Güvenli E-Mail Uygulaması\bin\Debug\Güvenli E-Mail Uygulaması.exe.config
+c:\users\foza\documents\visual studio 2013\Projects\Güvenli E-Mail Uygulaması\Güvenli E-Mail Uygulaması\bin\Debug\Güvenli E-Mail Uygulaması.exe
+c:\users\foza\documents\visual studio 2013\Projects\Güvenli E-Mail Uygulaması\Güvenli E-Mail Uygulaması\bin\Debug\Güvenli E-Mail Uygulaması.pdb
+c:\users\foza\documents\visual studio 2013\Projects\Güvenli E-Mail Uygulaması\Güvenli E-Mail Uygulaması\obj\Debug\Güvenli E-Mail Uygulaması.csprojResolveAssemblyReference.cache
+c:\users\foza\documents\visual studio 2013\Projects\Güvenli E-Mail Uygulaması\Güvenli E-Mail Uygulaması\obj\Debug\Güvenli_E_Mail_Uygulaması.Form1.resources
+c:\users\foza\documents\visual studio 2013\Projects\Güvenli E-Mail Uygulaması\Güvenli E-Mail Uygulaması\obj\Debug\Güvenli_E_Mail_Uygulaması.Properties.Resources.resources
+c:\users\foza\documents\visual studio 2013\Projects\Güvenli E-Mail Uygulaması\Güvenli E-Mail Uygulaması\obj\Debug\Güvenli E-Mail Uygulaması.csproj.GenerateResource.Cache
+c:\users\foza\documents\visual studio 2013\Projects\Güvenli E-Mail Uygulaması\Güvenli E-Mail Uygulaması\obj\Debug\Güvenli E-Mail Uygulaması.exe
+c:\users\foza\documents\visual studio 2013\Projects\Güvenli E-Mail Uygulaması\Güvenli E-Mail Uygulaması\obj\Debug\Güvenli E-Mail Uygulaması.pdb
+C:\Users\FOZA\documents\visual studio 2013\Projects\Güvenli E-Mail Uygulaması\Güvenli E-Mail Uygulaması\obj\Debug\Güvenli_E_Mail_Uygulaması.sessteg1.resources
+C:\Users\FOZA\documents\visual studio 2013\Projects\Güvenli E-Mail Uygulaması\Güvenli E-Mail Uygulaması\bin\Debug\Interop.WMPLib.dll
+C:\Users\FOZA\documents\visual studio 2013\Projects\Güvenli E-Mail Uygulaması\Güvenli E-Mail Uygulaması\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\FOZA\documents\visual studio 2013\Projects\Güvenli E-Mail Uygulaması\Güvenli E-Mail Uygulaması\obj\Debug\Interop.WMPLib.dll
+C:\Users\FOZA\documents\visual studio 2013\Projects\Güvenli E-Mail Uygulaması\Güvenli E-Mail Uygulaması\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\FOZA\documents\visual studio 2013\Projects\Güvenli E-Mail Uygulaması\Güvenli E-Mail Uygulaması\obj\Debug\Güvenli E-Mail Uygulaması.csproj.ResolveComReference.cache
+C:\Users\FOZA\documents\visual studio 2013\Projects\Güvenli E-Mail Uygulaması\Güvenli E-Mail Uygulaması\obj\Debug\Güvenli_E_Mail_Uygulaması.sessteg2.resources
+C:\Users\FOZA\documents\visual studio 2013\Projects\Güvenli E-Mail Uygulaması\Güvenli E-Mail Uygulaması\obj\Debug\Güvenli_E_Mail_Uygulaması.sessteg3.resources
